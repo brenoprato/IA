@@ -1,0 +1,12 @@
+/home/BRENO/Prog/ia/agente_wumpus/target/debug/deps/chacha20-c0da01de08a954e4.d: /home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/lib.rs /home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/variants.rs /home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends.rs /home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/rng.rs /home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/../README.md /home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends/soft.rs /home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends/avx2.rs /home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends/sse2.rs
+
+/home/BRENO/Prog/ia/agente_wumpus/target/debug/deps/libchacha20-c0da01de08a954e4.rmeta: /home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/lib.rs /home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/variants.rs /home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends.rs /home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/rng.rs /home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/../README.md /home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends/soft.rs /home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends/avx2.rs /home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends/sse2.rs
+
+/home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/lib.rs:
+/home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/variants.rs:
+/home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends.rs:
+/home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/rng.rs:
+/home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/../README.md:
+/home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends/soft.rs:
+/home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends/avx2.rs:
+/home/BRENO/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends/sse2.rs:
